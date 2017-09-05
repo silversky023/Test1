@@ -6,7 +6,7 @@
 	<groupId>com.payment.spring</groupId>
 	<artifactId>email</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>payment-spring-email</name>
 	<description>Demo project for sending emails from Spring Boot</description>
